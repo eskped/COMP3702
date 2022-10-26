@@ -1,0 +1,6 @@
+[submodule "Assignment 3/a2-support"]
+	path = Assignment 3/a2-support
+	url = https://gitlab.com/3702-2022/a2-support.git
+[submodule "Assignment 3/a3-support"]
+	path = Assignment 3/a3-support
+	url = https://gitlab.com/3702-2022/a3-support.git
